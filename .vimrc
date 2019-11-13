@@ -17,7 +17,10 @@ Plugin 'itchyny/lightline.vim'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'flazz/vim-colorschemes'
-Plugin 'pangloss/vim-javascript'
+Plugin 'ervandew/supertab'
+Plugin 'MaxMEllon/vim-jsx-pretty'
+Plugin 'w0rp/ale'
+Plugin 'airblade/vim-gitgutter'
 
 filetype plugin indent on
 syntax on
