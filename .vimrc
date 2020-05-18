@@ -21,6 +21,7 @@ Plugin 'ervandew/supertab'
 Plugin 'MaxMEllon/vim-jsx-pretty'
 Plugin 'w0rp/ale'
 Plugin 'airblade/vim-gitgutter'
+Plugin 'tomlion/vim-solidity'
 
 filetype plugin indent on
 syntax on
