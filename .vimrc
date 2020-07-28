@@ -22,7 +22,7 @@ Plugin 'MaxMEllon/vim-jsx-pretty'
 Plugin 'w0rp/ale'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tomlion/vim-solidity'
-Plugin 'peitalin/vim-jsx-typescript'
+Plugin 'leafgarland/typescript-vim'
 
 filetype plugin indent on
 syntax on
