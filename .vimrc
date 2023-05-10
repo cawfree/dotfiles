@@ -28,6 +28,7 @@ Plugin 'w0rp/ale'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'tomlion/vim-solidity'
 Plugin 'leafgarland/typescript-vim'
+Plugin 'wolflo/vim-huff'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
